@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/profile.svg" width="1120" alt="Stepqq — a personal space. Stay curious. Make things. Keep evolving." />
+  <img src="assets/profile.svg" width="1120" alt="Step — a personal GitHub page with a red ASCII planet." />
 </p>

@@ -2,7 +2,7 @@
 
 ## Typography
 
-Plus Jakarta Sans by Gumpita Rahayu / Tokotype, regular and bold.
+Plus Jakarta Sans by Gumpita Rahayu / Tokotype, regular and bold. Its clean typography lets the illustrated planet carry the profile's visual weight.
 
 - Original font project: https://github.com/tokotype/PlusJakartaSans
 - License: SIL Open Font License 1.1, see `assets/licenses/PlusJakartaSans-OFL.txt`.
@@ -19,15 +19,11 @@ Colors come from the GitHub Primer default dark palette, rather than a custom ge
 | Use | Primer base color | Hex |
 | --- | --- | --- |
 | Canvas | neutral 1 | `#0D1117` |
-| Panels | neutral 2 | `#151B23` |
-| Borders | neutral 7 | `#3D444D` |
-| Quiet marks | neutral 8 | `#656C76` |
-| Secondary text | neutral 9 | `#9198A1` |
-| Body text | neutral 11 | `#D1D7E0` |
-| Headings | neutral 12 | `#F0F6FC` |
+| Primary text | neutral 12 | `#F0F6FC` |
+| Secondary text and illustration highlights | neutral 11 | `#D1D7E0` |
 | Red accent | red 4 | `#F85149` |
 | Illustration midtone | red 6 | `#B62324` |
 | Illustration orbit | red 7 | `#8E1519` |
 | Illustration shadow | red 8 | `#67060C` |
 
-The artwork uses flat fills, with no glow or gradients.
+The layout keeps open space around the artwork, uses no panels or repeated cards, and uses flat fills with no glow or gradients.
