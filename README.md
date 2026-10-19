@@ -1,5 +1,3 @@
-# Hi, I'm Step 👋
-
-I'm interested in technology, software, and learning how things work. This profile is a small space for exploring ideas and sharing what I create along the way.
-
-*Learning at my own pace, one step at a time.*
+<p align="center">
+  <img src="assets/profile.svg" width="1120" alt="Stepqq — a personal space. Stay curious. Make things. Keep evolving." />
+</p>
