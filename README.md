@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="assets/cat-terminal.png" width="1120" alt="A cream-and-gray kitten drawn in terminal-style characters." />
-</p>
+<img align="left" width="56%" src="assets/cat-terminal.png" alt="A cream-and-gray kitten drawn in terminal-style characters." />
 
-<h1 align="center">Step.</h1>
+<h1>Step.</h1>
 
-<p align="center">A little about me and what I'm up to.</p>
+<p>A little about me and what I'm up to.</p>
 
-<p align="center">Mostly trying things out and keeping the bits I might want to come back to.</p>
+<p>Mostly trying things out and keeping the bits I might want to come back to.</p>
+
+<br clear="all" />
