@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Step 👋
 
-<!--
-**Stepqq/Stepqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy experimenting with software and building practical projects — from Discord bots in Python to Minecraft mods in Java.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Lava Particles More](https://github.com/Stepqq/Lava-particles-More)** — a Minecraft client mod that adds animated, bubbling lava particles.
+- **[Discord-Instanse](https://github.com/Stepqq/Discord-Instanse)** — a Python Discord bot project.
+
+## Languages & tools
+
+`Python` · `Java` · `discord.py`
+
+## Find me
+
+[GitHub](https://github.com/Stepqq)
+
+---
+
+*Learning by building, one project at a time.*
