@@ -1,20 +1,5 @@
-# Hey, I'm Step 👋
+# Hi, I'm Step 👋
 
-I enjoy experimenting with software and building practical projects — from Discord bots in Python to Minecraft mods in Java.
+I'm interested in technology, software, and learning how things work. This profile is a small space for exploring ideas and sharing what I create along the way.
 
-## Projects
-
-- **[Lava Particles More](https://github.com/Stepqq/Lava-particles-More)** — a Minecraft client mod that adds animated, bubbling lava particles.
-- **[Discord-Instanse](https://github.com/Stepqq/Discord-Instanse)** — a Python Discord bot project.
-
-## Languages & tools
-
-`Python` · `Java` · `discord.py`
-
-## Find me
-
-[GitHub](https://github.com/Stepqq)
-
----
-
-*Learning by building, one project at a time.*
+*Learning at my own pace, one step at a time.*
